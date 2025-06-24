@@ -25,7 +25,7 @@ EOF
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "jmagee@paloaltonetworks.com"
     git_modifiers        = "jmagee"
-    git_org              = "bridgecrewio"
+    git_org              = "PCS-LAB-ORG"
     git_repo             = "terragoat"
     yor_trace            = "347af3cd-4f70-4632-aca3-4d5e30ffc0b6"
     }, {
